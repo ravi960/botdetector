@@ -3,8 +3,8 @@ import threading
 import heroku3
 from time import sleep
 client = amino.Client()
-email='mouryaravi55@gmail.com'
-password ='ravilenovo'
+email='desiboy.m@gmail.com'
+password ='desiboyoppp1234'
 client.login(email=email, password=password)
 comid=[17015136,14999388] # Time valley and Indias VIP community ID
 mtype=[100,107,109,110,114,115]
